@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "010 - Daily Notes/2020-09-29.md",
-            "mode": "preview"
+            "file": "000 - Inbox(GitJournal)/嘻嘻哈哈.md",
+            "mode": "source"
           }
         },
         "group": "c678bd0d094fc02c"
@@ -22,7 +22,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "010 - Daily Notes/2020-09-29.md"
+            "file": "000 - Inbox(GitJournal)/嘻嘻哈哈.md"
           }
         },
         "group": "c678bd0d094fc02c"
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "010 - Daily Notes/2020-09-29.md"
+                "file": "000 - Inbox(GitJournal)/嘻嘻哈哈.md"
               }
             }
           },
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "010 - Daily Notes/2020-09-29.md"
+                "file": "000 - Inbox(GitJournal)/嘻嘻哈哈.md"
               }
             }
           }
@@ -114,10 +114,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "000 - Inbox(GitJournal)/嘻嘻哈哈.md",
+    "000 - Inbox(GitJournal)/toro.md",
+    "000 - Inbox(GitJournal)/测试如果插入图片的话，是不是能带名字_.md",
+    "000 - Inbox(GitJournal)/是不是暂时还不行？.md",
+    "000 - Inbox(GitJournal)/image_picker2203278012711364025.jpg",
+    "000 - Inbox(GitJournal)/image_picker7305633388569445167.jpg",
     "010 - Daily Notes/2020-09-29.md",
     "2020-09-29.md",
     "Pasted image 20200929103533.png",
-    "4aba27ee-43a8-4398-a082-5e9a8541fc99303395182956455729.jpg",
-    "image_picker1225542215176392933.jpg"
+    "4aba27ee-43a8-4398-a082-5e9a8541fc99303395182956455729.jpg"
   ]
 }
