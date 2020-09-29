@@ -10,21 +10,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000 - Inbox(GitJournal)/测试如果插入图片的话，是不是能带名字_.md",
+            "file": "README.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "9688e9cfdebee77f"
       },
       {
-        "id": "9432397e1b555358",
+        "id": "0fadb7d6c74f88b2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "999 - Archived/百度云连接.md",
-            "mode": "source"
+            "file": "README.md",
+            "mode": "preview"
           }
-        }
+        },
+        "group": "9688e9cfdebee77f"
       }
     ],
     "direction": "vertical"
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 - Inbox(GitJournal)/测试如果插入图片的话，是不是能带名字_.md"
+                "file": "README.md"
               }
             }
           },
@@ -101,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 - Inbox(GitJournal)/测试如果插入图片的话，是不是能带名字_.md"
+                "file": "README.md"
               }
             }
           }
@@ -113,15 +115,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "000 - Inbox(GitJournal)/测试如果插入图片的话，是不是能带名字_.md",
-    "000 - Inbox(GitJournal)/2020-09-29-12-08-56.md",
-    "000 - Inbox(GitJournal)/给你一个图像.md",
-    "000 - Inbox(GitJournal)/到你这边反而都不行了.md",
+    "README.md",
+    "2020-09-29.md",
+    "000 - Inbox(GitJournal)/Untitled.md",
+    "Untitled.md",
+    "000 - Inbox(GitJournal)/toro.md",
     "000 - Inbox(GitJournal)/image_picker2203278012711364025.jpg",
     "000 - Inbox(GitJournal)/小键盘的好处.md",
-    "999 - Archived/百度云连接.md",
-    "000 - Inbox(GitJournal)/image_picker7305633388569445167.jpg",
-    "000 - Inbox(GitJournal)/toro.md",
-    "999 - Archived/2020-09-28-11-29-47.md"
+    "000 - Inbox(GitJournal)/就我不知道另一点.md",
+    "000 - Inbox(GitJournal)/嘻嘻哈哈.md",
+    "000 - Inbox(GitJournal)/给你一个图像.md"
   ]
 }
