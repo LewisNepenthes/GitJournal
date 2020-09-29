@@ -1,0 +1,236 @@
+{
+  "theme": "obsidian",
+  "pluginEnabledStatus": {
+    "file-explorer": true,
+    "global-search": true,
+    "switcher": true,
+    "graph": true,
+    "backlink": true,
+    "command-palette": true,
+    "markdown-importer": false,
+    "word-count": true,
+    "custom-css": true,
+    "daily-notes": true,
+    "zk-prefixer": true,
+    "outline": true,
+    "audio-recorder": true,
+    "tag-pane": true,
+    "open-with-default-app": true,
+    "page-preview": true,
+    "starred": true,
+    "templates": true,
+    "translucency": false
+  },
+  "promptDelete": false,
+  "trashOption": "system",
+  "newFileLocation": "current",
+  "hotkeys": {
+    "audio-recorder:start": [
+      {
+        "modifiers": [
+          "Alt"
+        ],
+        "key": "r"
+      }
+    ],
+    "audio-recorder:stop": [
+      {
+        "modifiers": [
+          "Alt"
+        ],
+        "key": "q"
+      }
+    ],
+    "app:toggle-left-sidebar": [
+      {
+        "modifiers": [
+          "Mod",
+          "Shift"
+        ],
+        "key": "ArrowLeft"
+      }
+    ],
+    "app:toggle-right-sidebar": [
+      {
+        "modifiers": [
+          "Mod",
+          "Shift"
+        ],
+        "key": "ArrowRight"
+      }
+    ],
+    "workspace:split-vertical": [
+      {
+        "modifiers": [
+          "Mod",
+          "Shift"
+        ],
+        "key": "H"
+      }
+    ],
+    "workspace:split-horizontal": [
+      {
+        "modifiers": [
+          "Mod",
+          "Shift"
+        ],
+        "key": "V"
+      }
+    ],
+    "editor:focus-bottom": [
+      {
+        "modifiers": [
+          "Mod"
+        ],
+        "key": "ArrowDown"
+      }
+    ],
+    "editor:focus-top": [
+      {
+        "modifiers": [
+          "Mod"
+        ],
+        "key": "ArrowUp"
+      }
+    ],
+    "editor:focus-right": [
+      {
+        "modifiers": [
+          "Mod"
+        ],
+        "key": "ArrowRight"
+      }
+    ],
+    "editor:focus-left": [
+      {
+        "modifiers": [
+          "Mod"
+        ],
+        "key": "ArrowLeft"
+      }
+    ],
+    "graph:open-local": [
+      {
+        "modifiers": [
+          "Mod"
+        ],
+        "key": "t"
+      }
+    ],
+    "app:toggle-default-view-mode": [
+      {
+        "modifiers": [
+          "Mod"
+        ],
+        "key": "d"
+      }
+    ],
+    "editor:toggle-fold": [
+      {
+        "modifiers": [
+          "Mod",
+          "Shift"
+        ],
+        "key": "M"
+      }
+    ],
+    "editor:fold-all": [
+      {
+        "modifiers": [
+          "Alt",
+          "Shift"
+        ],
+        "key": "<"
+      }
+    ],
+    "editor:unfold-all": [
+      {
+        "modifiers": [
+          "Mod"
+        ],
+        "key": "m"
+      }
+    ],
+    "editor:swap-line-up": [],
+    "editor:swap-line-down": [],
+    "app:open-settings": [
+      {
+        "modifiers": [
+          "Mod"
+        ],
+        "key": "j"
+      }
+    ],
+    "app:open-vault": [
+      {
+        "modifiers": [
+          "Mod",
+          "Shift"
+        ],
+        "key": "Q"
+      }
+    ],
+    "app:delete-file": [
+      {
+        "modifiers": [
+          "Mod",
+          "Shift"
+        ],
+        "key": "D"
+      }
+    ],
+    "workspace:toggle-pin": [
+      {
+        "modifiers": [
+          "Mod",
+          "Shift"
+        ],
+        "key": "L"
+      }
+    ],
+    "workspace:edit-file-title": [
+      {
+        "modifiers": [
+          "Alt",
+          "Mod"
+        ],
+        "key": "r"
+      }
+    ],
+    "daily-notes": [
+      {
+        "modifiers": [
+          "Mod",
+          "Shift"
+        ],
+        "key": "T"
+      }
+    ],
+    "explorer:reveal-active-file": [
+      {
+        "modifiers": [
+          "Mod",
+          "Shift"
+        ],
+        "key": "R"
+      }
+    ],
+    "zk-prefixer": [
+      {
+        "modifiers": [
+          "Mod",
+          "Shift"
+        ],
+        "key": "K"
+      }
+    ]
+  },
+  "attachmentFolderPath": "999 - Appendix",
+  "defaultViewMode": "preview",
+  "useMarkdownLinks": false,
+  "showLineNumber": true,
+  "strictLineBreaks": true,
+  "alwaysUpdateLinks": true,
+  "spellcheck": false,
+  "vimMode": false
+}

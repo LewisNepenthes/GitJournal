@@ -1,0 +1,123 @@
+{
+  "main": {
+    "id": "8d59cd2885604378",
+    "type": "split",
+    "children": [
+      {
+        "id": "8db5c3828e80b0b0",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "010 - Daily Notes/2020-09-29.md",
+            "mode": "preview"
+          }
+        },
+        "group": "c678bd0d094fc02c"
+      },
+      {
+        "id": "df44c84488397a2b",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "010 - Daily Notes/2020-09-29.md"
+          }
+        },
+        "group": "c678bd0d094fc02c"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "25a0c45ad1a1ae92",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a7504431dc52098",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "901239cf348c3b26",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "10265cd27feea942",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          },
+          {
+            "id": "a4595011ff50288e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "723ad3fdd9e86fe7",
+    "type": "split",
+    "children": [
+      {
+        "id": "46c5ddafb22d9457",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fe6c209eba87253",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "010 - Daily Notes/2020-09-29.md"
+              }
+            }
+          },
+          {
+            "id": "ce17cc06e6ea6827",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          },
+          {
+            "id": "8899defdb86877d0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "010 - Daily Notes/2020-09-29.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "010 - Daily Notes/2020-09-29.md",
+    "2020-09-29.md",
+    "Pasted image 20200929103533.png",
+    "4aba27ee-43a8-4398-a082-5e9a8541fc99303395182956455729.jpg",
+    "image_picker1225542215176392933.jpg"
+  ]
+}
